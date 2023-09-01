@@ -2,7 +2,7 @@
 #### Technical Skills: Python, SQL, PowerBI, Tableau, Excel
 
 ## Education		        		
-- B.Sc in CSE from **Green University of Bangladesh** (April 2023)
+- B.Sc in CSE from **Green University of Bangladesh** (_April 2023_)
 - CGPA 3.61 with 4 **Dean's Awards** for excellence result
 ## Work Experience
 **Business Analyst @ Creative Engineers Ltd (_August 2023 - Present_)**
@@ -15,6 +15,7 @@
 - Quality check of the University's ERP system and data management.
 - Writing the meeting minutes of all administrative meetings. Keeping the accountability of assets. Troubleshooting the LAN networks.
 - Assisting with the networking design for the annex building. Preparing user guides and innovative tutorials for users.
+## Certifications
 
 ## Research
 ### User Quality of Experience and Profit Aware Task Allocation in Mobile Device Cloud
