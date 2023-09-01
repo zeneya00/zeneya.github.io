@@ -1,5 +1,4 @@
-# zeneya.github.io
-# business analyst
+# Business Analyst
 ### Education
 CSE, BSc
 ### Work Experience
