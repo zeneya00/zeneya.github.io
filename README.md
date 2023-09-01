@@ -2,7 +2,7 @@
 #### Technical Skills: Python, SQL, PowerBI, Tableau, Excel
 
 ## Education		        		
-- B.Sc in CSE | Green University of Bangladesh (_April 2023_)
+- B.Sc in CSE | Green University of Bangladesh (April 2023)
 - CGPA 3.61 with 4 Dean's Awards for excellence result
 ## Work Experience
 **Business Analyst @ Creative Engineers Ltd (_August 2023 - Present_)**
